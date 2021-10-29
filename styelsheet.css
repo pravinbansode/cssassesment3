@@ -20,6 +20,10 @@
     font-size: xx-large;
     
 }
+img{ 
+    height: 150px;
+    width: 150px;
+}
 .m{
     height: 800px;
     width: 800px;
