@@ -1,0 +1,126 @@
+.body{
+    background-color: grey;
+    height: 1600px;
+    width: 850px;
+    margin-left: 20%
+
+}
+
+#m{
+    height:100px ;
+    width: 300px;
+    border: 4px solid red;
+    border-radius: 10px;
+    box-shadow: 10px 10px rgba(120, 12, 228, 0.938);
+    margin-left: 30%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    padding-top: 40px;
+    word-spacing: 20px;
+    font-size: xx-large;
+    
+}
+.m{
+    height: 800px;
+    width: 800px;
+    border: 4px solid rgba(172, 255, 47, 0.938);
+    position: absolute;
+}
+#m1,#m2,#m3,#m4{
+    height: 150px;
+    width: 150px;
+    border: 4px solid red;
+    box-shadow: 10px 10px rgba(120, 12, 228, 0.938);
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+#m1 {
+	position: absolute;
+	top: 0;
+	left: 0;
+    margin-top: 50px;
+    margin-left: 50px;
+    line-height: 30px;
+    word-spacing: 3px;
+}
+
+#m2 {
+	position: absolute;
+	top: 0;
+	right: 0%;
+    margin-top: 50px;
+    margin-right: 50px;
+    overflow: hidden;
+
+  
+}
+#m3 {
+	position: absolute;
+	bottom: 0%;
+	left: 0;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    line-height: 20px;
+    word-spacing: 3px;
+}
+#m4 {
+	bottom: 0%;
+	right: 0%;
+	position: absolute;
+    margin-bottom: 50px;
+    margin-right:50px ;
+    line-height: 30px;
+    
+ }
+#m5{
+    height: 80px;
+    width: 500px;
+    border: 4px solid red;
+    margin-top: 45%;
+    margin-left: 20%;
+    box-shadow: 10px 10px rgba(120, 12, 228, 0.938);
+    font-weight: bold;
+    font-style: italic;
+    font-size: x-large;
+    word-spacing: 15px;
+    padding-top: 15px;
+    padding-left: 10px;
+    border-radius: 10px;
+ }
+.n{
+  height:660px ;
+  width: 600px;
+  border: 8px solid rgba(120, 12, 228, 0.938);
+  background-color: rgba(34, 139, 34, 0.938);
+  margin-top: 50%;
+  margin-left: 90px;
+  font-style: italic;
+  line-height: 30px;
+  text-align: center;
+    
+}
+#fruit,#vegetables{
+    height: 270px;
+    width: 295px;
+    border: 1px solid rgba(255, 239, 213, 0.541);
+    display: inline-block;
+    margin-top: 2px;
+    background-color: papayawhip;
+    text-align: center;
+    margin-bottom: 10px; 
+    overflow: hidden;    
+}
+#other{
+    height: 270px;
+    width: 595px;
+    border: 1px solid rgba(255, 239, 213, 0.541);
+    margin-top: 2px;
+    background-color: papayawhip;
+    text-align: center;
+    margin-bottom: 10px; 
+    overflow: hidden;    
+}
+
+
+
